@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Website Badge](https://img.shields.io/badge/-georgiitroshin.com-yellow?style=flat-square&logo=Site&logoColor=white&link=[https://georgiitroshin.com](https://georgiitroshin.com))](https://georgiitroshin.com)
 [![Linkedin Badge](https://img.shields.io/badge/-gtroshin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gtroshin/)](https://www.linkedin.com/in/gtroshin/)
 [![Medium Badge](https://img.shields.io/badge/-gtroshin-black?style=flat-square&logo=Medium&logoColor=white&link=[https://medium.com/@gtroshin](https://medium.com/@gtroshin))](https://medium.com/@gtroshin)
 
