@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gtroshin)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![Linkedin Badge](https://img.shields.io/badge/-gtroshin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gtroshin/)](https://www.linkedin.com/in/gtroshin/)
+[![Medium Badge](https://img.shields.io/badge/-gtroshin-black?style=flat-square&logo=Medium&logoColor=white&link=[https://medium.com/@gtroshin](https://medium.com/@gtroshin))](https://medium.com/@gtroshin)
 
 I am a Software Engineer, working with Development Productivity, CI/CD, and Quality, currently at PayPal.
 
@@ -33,3 +32,9 @@ I am a Software Engineer, working with Development Productivity, CI/CD, and Qual
 <a href="https://github.com/gtroshin/OnlineShop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gtroshin&repo=OnlineShop&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
+
+
+_______________________________
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gtroshin)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
