@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-gtroshin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gtroshin/)](https://www.linkedin.com/in/gtroshin/)
 [![Medium Badge](https://img.shields.io/badge/-gtroshin-black?style=flat-square&logo=Medium&logoColor=white&link=[https://medium.com/@gtroshin](https://medium.com/@gtroshin))](https://medium.com/@gtroshin)
 
-I am a Software Engineer, working with Development Productivity, CI/CD, and Quality, currently at PayPal.
+I am a Software Engineer, working with Development Productivity, CI/CD, and Quality.
 
 ### 🔧 Technologies & Tools I utilized
 
