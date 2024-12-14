@@ -16,25 +16,6 @@ I am a Software Engineer, working with Development Productivity, CI/CD, and Qual
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
-### 🗂️ My Showcase Projects
-
-<a href="https://github.com/gtroshin/showcase-web-e2e-tests">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gtroshin&repo=showcase-web-e2e-tests&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
-</a>
-
-<a href="https://github.com/gtroshin/showcase-performance-tests">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gtroshin&repo=showcase-performance-tests&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
-</a>
-
-<a href="https://github.com/gtroshin/showcase-performance-tests">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gtroshin&repo=showcase-api-tests&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
-</a>
-
-<a href="https://github.com/gtroshin/OnlineShop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gtroshin&repo=OnlineShop&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
-</a>
-
-
 _______________________________
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gtroshin)
